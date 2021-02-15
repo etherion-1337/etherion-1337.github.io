@@ -1109,7 +1109,7 @@ header .logo {
 	margin-top: 25px;
 	position: relative;
 }
-/** header .logo a {
+header .logo a {
 	display: block;
 	margin: 0;
 	padding: 0;
@@ -1119,9 +1119,9 @@ header .logo {
 	color: transparent;
 	width: 92px;
 	height: 15px;
-	background: url("../images/logo.png") no-repeat center;
-	background-size: 92px 15px;
-} **/
+	/** background: url("../images/menu.png") no-repeat center;
+	background-size: 92px 15px; **/
+}
 
 /**
  * menu toggle - (_layout.css)
