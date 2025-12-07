@@ -18,7 +18,7 @@ theme = 'm10c'
 [params]
 author = 'Xavier'
 avatar = 'etherion_avatar.png'
-description = 'Quantum physicist, AI scientist and Software engineer'
+description = 'AI scientist, quantum physicist and software engineer'
 
 [[params.social]]
 icon = "github"
