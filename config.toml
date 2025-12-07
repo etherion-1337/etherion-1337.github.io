@@ -1,0 +1,32 @@
+baseURL = 'https://etherion-1337.github.io/'
+languageCode = 'en-us'
+title = 'Personal Tech Blog'
+theme = 'm10c'
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+[params]
+author = 'Xavier'
+avatar = 'etherion_avatar.png'
+description = 'Quantum physicist, AI scientist and Software engineer'
+
+[[params.social]]
+icon = "github"
+name = "Github"
+url = "https://github.com/etherion-1337"
+
+[[params.social]]
+icon = "linkedin"
+name = "Linkedin"
+url = "https://www.linkedin.com/in/xavier-zk-tang/"
+
