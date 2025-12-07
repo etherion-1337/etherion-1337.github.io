@@ -1,6 +1,6 @@
 baseURL = 'https://etherion-1337.github.io/'
 languageCode = 'en-us'
-title = 'Personal Tech Blog'
+title = 'Tech Blog'
 theme = 'm10c'
 
 [menu]

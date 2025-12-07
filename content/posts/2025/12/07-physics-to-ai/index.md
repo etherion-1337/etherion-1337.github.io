@@ -1,5 +1,5 @@
 ---
-title: "From physicist to AI scientist"
+title: "From physics to AI"
 date: 2025-12-05T22:10:10
 description: My journey from physics to AI
 tags: ["personal"]
