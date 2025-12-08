@@ -13,3 +13,5 @@ hugo.linux
 /.hugo_build.lock
 
 /themes/m10c/resources/_gen/
+
+.DS_Store
