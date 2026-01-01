@@ -6,7 +6,7 @@ tags: [personal]     # TAG names should always be lowercase
 toc: true
 ---
 
-# Some Background
+## Some Background
 
 Towards the end of my PhD in quantum computing, I started exploring the world of quantum machine learning (QML). Back then, QML was still a very young field (honestly, it still is), and everything about it felt incredibly exciting. But I also felt a strong need to deepen my understanding of the fundamentals of machine learning, especially since I was far more fluent in quantum than in classical ML. So after graduation, I spent about 4–5 months learning more. Little did I know that this would end up steering me into an entirely new career.
 
@@ -16,11 +16,11 @@ At the time, data science was being hailed as the “sexiest job” and this was
 
 Here, I’m listing all the materials I studied during those 4–5 months. Keep in mind that I already had (pretty) advanced math training and experience in C/C++ programming from my undergraduate studies and PhD before making the transition. Still, I expect that anyone with a STEM background will find this list useful to figure out where to start.
 
-# Courses and useful materials
+## Courses and useful materials
 
 My self-study journey was powered mostly by [Coursera](https://www.coursera.org/) and [DataCamp](https://www.datacamp.com/).
 
-## Introductory C Programming Specialization by Duke University
+### Introductory C Programming Specialization by Duke University
 
 This [specialization](https://www.coursera.org/specializations/c-programming) consist of 4 courses:
 1. Programming Fundamentals
@@ -35,7 +35,7 @@ C is the root of most modern programming languages and has had a significant inf
 
 **Verdict**: nice introduction if you have never programmed in your life.
 
-## Python for Everybody Specialization by University of Michigan
+### Python for Everybody Specialization by University of Michigan
 
 This [specialization](https://www.coursera.org/specializations/python) consist of 5 courses:
 1. Programming for Everybody (Getting Started with Python)
@@ -51,7 +51,7 @@ This specialization (and the next) from University of Michigan is one of the mos
 
 **Verdict**: If you are new to programming this is a good one to start, else go for the next one.
 
-## Python 3 Programming Specialization by University of Michigan
+### Python 3 Programming Specialization by University of Michigan
 
 This [specialization](https://www.coursera.org/specializations/python-3-programming) consit of 5 courses:
 1. Python Basics
@@ -67,7 +67,7 @@ This series of courses will teach you everything you need to know about Python, 
 
 **Verdict**: Excellent courses on learning Python, one of the best.
 
-## Mathematics for Machine Learning by Imperial College London
+### Mathematics for Machine Learning by Imperial College London
 
 This [specialization](https://www.coursera.org/specializations/mathematics-machine-learning) consist of 3 courses:
 1. Mathematics for Machine Learning: Linear Algebra
@@ -82,7 +82,7 @@ This specialization will cover some of the most important maths used in ML. I th
 
 **Verdict**: If you are not happy with the black box magic behind ML, this specialization is an excellent choices. However, you do need some UG math fundation.
 
-## Machine Learning by Andrew Ng
+### Machine Learning by Andrew Ng
 
 This [course](https://www.coursera.org/learn/machine-learning) has been revamped and now part of the 3-course specialization. This course by Andrew Ng is perhaps the most famous course in the world and the beginning of many data scientist's journey. Absolutely GOAT and must take.
 
@@ -91,7 +91,7 @@ This [course](https://www.coursera.org/learn/machine-learning) has been revamped
 
 **Verdict**: OG course, a must take.
 
-## Deep Learning Specialization by DeepLearning.AI
+### Deep Learning Specialization by DeepLearning.AI
 
 This [specialization](https://www.coursera.org/specializations/deep-learning) is again taught by Andrew Ng. This series of courses are slightly more mathematical than his ML courses (his most repeated phrase in the ML class is: "if you do not understand the maths, don't worry about it."). However, I do with he could dive in a bit deeper into the maths portion but I guess he has to strike a balance in this audience. This specialization has 5 courses:
 1. Neural Networks and Deep Learning
@@ -107,7 +107,7 @@ Overall I find these courses high-quality and covers till pre-transformer era.
 
 **Verdict**: I personaly feel this is a must-take courses as well, especially you want to cover all basics in deep learning up till transformers.
 
-## Algorithms Specialization by Stanford
+### Algorithms Specialization by Stanford
 
 I took this [specilization](https://www.coursera.org/specializations/algorithms) purely for interest as I do not have formal CS training back then and algorithm practice (and later, LeetCode) is an activity I always enjoy learning.
 
@@ -121,7 +121,7 @@ I took this [specilization](https://www.coursera.org/specializations/algorithms)
 
 **Verdict**: If you have a CS background, skip this, else take this if you are interested in algorithm. I like the lecturer very much.
 
-## TensorFlow Developer Professional Certificate by DeepLearning.AI
+### TensorFlow Developer Professional Certificate by DeepLearning.AI
 
 This [specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice) teach you the fundamental of TensorFlow and prepare you for the certificate. However, given the declining popularty of TF, I would not recommend this. Please spend your time on PyTorch.
 
@@ -135,7 +135,7 @@ This [specialization](https://www.coursera.org/professional-certificates/tensorf
 
 **Verdict**: If you want to learn about TF, go for it. Else I would focus on PyTorch.
 
-## TensorFlow: Advanced Techniques Specialization by DeepLearning.AI
+### TensorFlow: Advanced Techniques Specialization by DeepLearning.AI
 
 Again this [specialization](https://www.coursera.org/specializations/tensorflow-advanced-techniques) is about TF. Although I like the materials but unfortunately TF is not being used very often now.
 
@@ -149,7 +149,7 @@ Again this [specialization](https://www.coursera.org/specializations/tensorflow-
 
 **Verdict**: Same as above, only take this if you are interested in TF else pass.
 
-## DataCamp
+### DataCamp
 
 For DataCamp there are many career tracks and each contains a dozen courses covering from basics to advanced topcis. I have completed 4 tracks during my self-study journey:
 
@@ -176,7 +176,7 @@ All the 4 tracks have significant amount of overlapping courses so the actual am
 
 **Verdict**: I actually learned alot from these modules and I would say it covers comprehensively on the tools I need for the transition.
 
-## AWS Cloud Practitioner and Solutions Architect Associate 
+### AWS Cloud Practitioner and Solutions Architect Associate 
 
 As the last step to conclude my self-study, I actually studied and passed these AWS exam to earn the certificate. I personally feel that they are very useful in my daily work. I used Stephane Maarek's Udemy courses for both [Cloud Practitioner](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) and [Solution Architect Associate](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/?srsltid=AfmBOoqDYl-ugB36kNOL0Z6EQFIHrkVD9IuvqmKZ4m8BbCoJiNjUAJyo).
 
@@ -187,6 +187,6 @@ These courses are the best of their kind and I have made comprehensive [notes](h
 
 **Verdict**: Cloud computing is pretty much standard knowledge now and I feel it is a must to know about these technologies.
 
-# Afterthought
+## Afterthought
 
 As you can see I have crammed a lot of materials in the short span of 4-5 months of full-time self-study and I feel it is totally worth it. I hope this list of study materials is helpful if you come from a STEM background like me. If you are still not satisfied by all these courses, perhaps it is time to consider a proper CS master, like what I did after a few years of working. This is a much tougher route but at the same time much more rewarding. I will cover some of my OMSCS journey later on.
