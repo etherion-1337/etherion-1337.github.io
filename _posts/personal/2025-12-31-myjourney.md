@@ -1,7 +1,7 @@
 ---
 title: My journey from Quantum to AI
 date: 2025-12-31 0000:00:00 +0800
-categories: [Personal]
+categories: [Memory Palace, Personal]
 tags: [personal]     # TAG names should always be lowercase
 toc: true
 ---

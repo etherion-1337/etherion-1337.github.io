@@ -1,7 +1,7 @@
 ---
 title: CS 6750 - Human-Computer Interaction
 date: 2024-05-05 0000:00:00 +0800
-categories: [Gatech]
+categories: [Academic, Gatech]
 tags: [gatech, omscs]     # TAG names should always be lowercase
 toc: true
 ---
